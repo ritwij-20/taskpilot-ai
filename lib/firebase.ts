@@ -4,7 +4,7 @@ import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA1JX7aRyY_4vnxMwoajnUvsEadYoG4Rww",
+  apiKey: "",
   authDomain: "taskpilot-ai-44432.firebaseapp.com",
   projectId: "taskpilot-ai-44432",
   storageBucket: "taskpilot-ai-44432.firebasestorage.app",
