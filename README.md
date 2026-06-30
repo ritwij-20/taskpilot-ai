@@ -2,8 +2,9 @@
 
 <div align="center">
 
-![TaskPilot AI Logo](assets/.aistudio/ab501710-f2c0-4d99-a66d-57a4dea10e41.png
-)
+<img src="./assets/logo.png" alt="TaskPilot AI Logo" width="140"/>
+
+# 🚀 TaskPilot AI
 
 ### Your AI-Powered Productivity Companion
 
@@ -12,7 +13,6 @@ Plan smarter. Build better habits. Achieve your goals with AI.
 Built using **Google Gemini AI**, **Firebase**, **Next.js**, and **Google Cloud**.
 
 </div>
-
 ---
 
 # 📖 Overview
