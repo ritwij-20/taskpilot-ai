@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![TaskPilot AI Logo](./assets/logo.png)
+![TaskPilot AI Logo](./assets/ab501710-f2c0-4d99-a66d-57a4dea10e41.png
+)
 
 ### Your AI-Powered Productivity Companion
 
