@@ -250,51 +250,44 @@ to generate personalized responses instead of generic advice.
 # 📸 Screenshots
 
 ## 🏠 Dashboard
-
-> *(Add Dashboard Screenshot Here)*
-
----
+<p align="center">
+<img src="./screenshots/dashboard.png" width="900">
+</p>
 
 ## 🤖 Pilot AI Insights
-
-> *(Add AI Insights Screenshot Here)*
-
----
+<p align="center">
+<img src="./screenshots/pilotai_insights.png" width="900">
+</p>
 
 ## 📝 Task Management
-
-> *(Add Task Screenshot Here)*
-
----
+<p align="center">
+<img src="./screenshots/task_management.png" width="900">
+</p>
 
 ## 🔥 Habit Tracking
-
-> *(Add Habit Screenshot Here)*
-
----
+<p align="center">
+<img src="./screenshots/habit.png" width="900">
+</p>
 
 ## 🎯 Goal Management
-
-> *(Add Goal Screenshot Here)*
-
----
+<p align="center">
+<img src="./screenshots/goals.png" width="900">
+</p>
 
 ## 💬 Pilot Chat
-
-> *(Add Pilot Chat Screenshot Here)*
-
----
+<p align="center">
+<img src="./screenshots/pilot_chat.png" width="900">
+</p>
 
 ## 📊 Analytics
-
-> *(Add Analytics Screenshot Here)*
-
----
+<p align="center">
+<img src="./screenshots/analytics.png" width="900">
+</p>
 
 ## 🌙 Dark Mode
-
-> *(Add Dark Mode Screenshot Here)*
-
+<p align="center">
+<img src="./screenshots/dark_mode.png" width="900">
+</p>
 ---
 
 # 🚀 Live Demo
