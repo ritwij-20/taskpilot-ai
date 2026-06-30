@@ -1,0 +1,6 @@
+{
+  "name": "TaskPilot AI",
+  "description": "An AI-powered productivity companion that proactively helps users plan, prioritize, schedule, and complete tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
