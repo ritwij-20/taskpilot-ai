@@ -13,7 +13,7 @@ Plan smarter. Build better habits. Achieve your goals with AI.
 Built using **Google Gemini AI**, **Firebase**, **Next.js**, and **Google Cloud**.
 
 </div>
----
+
 
 # 📖 Overview
 
