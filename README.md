@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/logo.png" alt="TaskPilot AI Logo" width="140"/>
+<img src="assets/.aistudio/ab501710-f2c0-4d99-a66d-57a4dea10e41.png" alt="TaskPilot AI Logo" width="140"/>
 
 # 🚀 TaskPilot AI
 
